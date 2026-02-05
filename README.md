@@ -115,7 +115,7 @@ I build small tools, practice **CTFs & TryHackMe labs**, and work on projects th
   <a href="https://www.linkedin.com/in/shubham-w-4665b1205">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://tryhackme.com/p/cypherxx">
+  <a href="https://tryhackme.com/p/zeroSlick">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/shubhamwD/">
